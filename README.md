@@ -1,1 +1,1 @@
-# ml-project-generic
+end to end machine learning implementation on AWS
